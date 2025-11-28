@@ -193,15 +193,6 @@ pip install -r requirements.txt
 
 ---
 
-## ⚠️ Limitations
-
-- Small neonatal dataset size  
-- Single-center data  
-- Genomic batch effects  
-- Limited interpretability in fusion models  
-
----
-
 ## 🔮 Future Scope
 
 - Real-time NICU deployment  

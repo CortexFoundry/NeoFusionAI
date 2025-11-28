@@ -1,9 +1,5 @@
 # 🍼 Neonatal Disease Analysis Using a Multimodal Deep Learning Framework
 
-This repository contains the complete implementation of our final-year B.Tech project titled:
-
-> **"Neonatal Disease Analysis Using a Multimodal Deep Learning Framework"**
-
 The project focuses on **early prediction of Bronchopulmonary Dysplasia (BPD) and Neonatal Sepsis** by integrating **clinical data, genomic data, and neonatal MRI imaging** using **machine learning and deep learning models**.
 
 ---
